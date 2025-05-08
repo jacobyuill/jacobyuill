@@ -1,5 +1,10 @@
-Hey, it's Jacob. I'm heading into my third year at the University of Tennessee—Knoxville majoring in CS. I am looking to pursue a career in DevOps after college.
+### yo it's Jacob
 
-My interests in tech mainly revolve around the Linux world, having first started tinkering with it at around 9 years old, with a dream to make a career out of it some day. Though, I still aim to hone my programming skills in order to remain versitile in a volatile tech market.
+I'm a third-year CS major at the University of Tennessee—Knoxville, committed to turning my Linux passion into a career in DevOps.
 
-Feel free to reach out to me if you have questions about any of my projects here.
+- 🐧 **Penguin Enthusiast:** Started tinkering with Linux when I was 9, with Minecraft servers as the gateway drug
+- 💼 **Career Goal:** Want to primarily work with Linux, but still be proficient in programming if the job calls for it
+- 💻 **Languages:** Fluent in C++, proficient in Python, learning C and JavaScript
+- 📃 **Certifications:** Working towards getting Linux+ and Network+ this summer
+
+
