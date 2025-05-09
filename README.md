@@ -5,6 +5,6 @@ I'm a (soon-to-be) third-year CS major at the University of Tennessee-Knoxville,
 - 🐧 **Penguin Enthusiast:** Started tinkering with Linux when I was 9, with Minecraft servers as the gateway drug
     - Daily drive Arch Linux (btw) on desktop and laptop
     - Have a scuffed home server lab with a Debian mini PC as the head, primarily powered by Docker 
-- 💼 **Career Goal:** Want to primarily work with Linux, but still have programming in my back pocket
+- 💼 **Career Goal:** Want to primarily work with Linux, but still be proficient with programming
 - 💻 **Languages:** Fluent in C++, proficient in Python, learning C and JavaScript
 - 📃 **Certifications:** Working towards getting Linux+ and Network+ this summer
